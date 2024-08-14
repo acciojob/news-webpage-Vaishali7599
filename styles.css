@@ -1,1 +1,42 @@
 /*  your css code here. If applicable */
+.header{
+	font-size: 30px;
+	text-align: center;
+	color: white;
+	display: flex;
+	justify-content: center;
+	padding: 20px;
+	background-color: #011e29
+	
+}
+.pictorial-news-section{
+	text-align:center;
+	padding: 10px;
+
+	background-color: white;
+	width: 30%;
+	height: 30%;
+	border-radius: 10%;
+}
+.latest-news-section{
+	text-align: center;
+	background-color: white;
+	width: 30%;
+	height: 30%;
+	border-radius: 10%;
+	
+}
+.main-section{
+	text-align: center;
+	background-color: white;
+	word-wrap: wrap;
+	width: 30%;
+	height: 30%;
+	border-radius: 10%;
+}
+.ch{
+	margin: 10px;
+	display: flex;
+	justify-content: space-around;
+
+}
